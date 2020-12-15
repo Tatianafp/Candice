@@ -26,7 +26,7 @@ Para executar a interface de interação com o usuário da Candice, primeiro adi
 
 ### **Observações**
 
-O aprender não aceita arquivos .zip maiores que 250mb, por isso nem todos os códigos utilizados neste projeto estão presentes no envio final. No entanto, todos os códigos estão presentes em um repositório no Github, o qual pode ser acessado através do seguinte link: https://github.com/Tatianafp/Candice_MT_2020.1. E os arquivos nos quais o conjunto de dados foi organizado podem ser acessado através deste link: https://drive.google.com/drive/folders/1G0MXF14eVxvqd_iZ6HtxrbLqmgYVRNsl?usp=sharing. 
+O aprender não aceita arquivos .zip maiores que 250mb, por isso nem todos os códigos utilizados neste projeto estão presentes no envio final. No entanto, todos os códigos estão presentes em um repositório no Github, o qual pode ser acessado através do seguinte link: https://github.com/Tatianafp/Candice. E os arquivos nos quais o conjunto de dados foi organizado podem ser acessado através deste link: https://drive.google.com/drive/folders/1G0MXF14eVxvqd_iZ6HtxrbLqmgYVRNsl?usp=sharing. 
 
 
 
